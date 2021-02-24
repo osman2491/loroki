@@ -202,10 +202,6 @@ code,pre{
 }
 
 /* --features */
-.features-head .ft {
-    animation: slideInFromLeft 1s ease-in;
-}
-
 
 .features-head img{
     width: 250px;
